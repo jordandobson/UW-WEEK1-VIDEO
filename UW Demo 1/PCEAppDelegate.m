@@ -25,9 +25,9 @@
 
     self.synthesizer.delegate = self;
 
+    // PART 4
     //    NSLog(@"%@", voices);
     //    NSLog(@"%@", @(voices.count));
-
     //  PART 3
     //  self.theInputField.textColor = [NSColor redColor];
     //  self.theInputField.stringValue = @"Hello World.";
